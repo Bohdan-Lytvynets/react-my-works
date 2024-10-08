@@ -1,4 +1,5 @@
 import Product from './Product';
+// import Message from './Message';
 
 export default function App() {
     return (
